@@ -1,0 +1,38 @@
+name: /home/polaris_he/py/ebook_extract/.conda
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - beautifulsoup4=4.12.3=pyha770c72_0
+  - bs4=4.12.3=hd8ed1ab_0
+  - bzip2=1.0.8=h5eee18b_6
+  - ca-certificates=2024.6.2=hbcca054_0
+  - ebooklib=0.17=py_0
+  - icu=73.1=h6a678d5_0
+  - ld_impl_linux-64=2.38=h1181459_1
+  - libffi=3.4.4=h6a678d5_1
+  - libgcc-ng=14.1.0=h77fa898_0
+  - libgomp=14.1.0=h77fa898_0
+  - libstdcxx-ng=11.2.0=h1234567_1
+  - libuuid=1.41.5=h5eee18b_0
+  - libxml2=2.10.4=hfdd30dd_2
+  - libxslt=1.1.37=h873f0b0_0
+  - lxml=5.2.1=py311hdbbb534_0
+  - ncurses=6.4=h6a678d5_0
+  - openssl=3.3.1=h4ab18f5_1
+  - pip=24.0=py311h06a4308_0
+  - python=3.11.9=h955ad1f_0
+  - readline=8.2=h5eee18b_0
+  - setuptools=69.5.1=py311h06a4308_0
+  - six=1.16.0=pyh6c4a22f_0
+  - soupsieve=2.5=pyhd8ed1ab_1
+  - sqlite=3.45.3=h5eee18b_0
+  - tk=8.6.14=h39e8969_0
+  - transitions=0.9.1=pyhd8ed1ab_0
+  - tzdata=2024a=h04d1e81_0
+  - wheel=0.43.0=py311h06a4308_0
+  - xz=5.4.6=h5eee18b_1
+  - zlib=1.2.13=h5eee18b_1
+prefix: /home/polaris_he/py/ebook_extract/.conda
